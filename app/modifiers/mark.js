@@ -1,1 +1,1 @@
-export { default } from 'ember-cli-markjs/modifiers/mark';
+export { default } from 'ember-cli-mark/modifiers/mark';
