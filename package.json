@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-markjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "an EmberJS add-on for mark.js.",
   "keywords": [
     "ember-addon",
