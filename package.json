@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-markjs",
+  "name": "ember-cli-mark",
   "version": "1.0.0",
   "description": "an EmberJS add-on for mark.js.",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "repository": "onehilltech/ember-cli-markjs",
   "license": "Apache-2.0",
-  "author": "",
+  "author": "One Hill Technolocies, LLC",
   "directories": {
     "doc": "doc",
     "test": "tests"

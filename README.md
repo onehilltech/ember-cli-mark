@@ -1,4 +1,4 @@
-ember-cli-markjs
+ember-cli-mark
 ==============================================================================
 
 A simple EmberJS add-on for [Mark.js](https://markjs.io/)
@@ -16,7 +16,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-cli-markjs
+ember install ember-cli-mark
 ```
 
 
