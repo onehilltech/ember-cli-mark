@@ -1,12 +1,13 @@
 {
   "name": "ember-cli-markjs",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "an EmberJS add-on for mark.js.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "markjs"
   ],
-  "repository": "",
-  "license": "MIT",
+  "repository": "onehilltech/ember-cli-markjs",
+  "license": "Apache-2.0",
   "author": "",
   "directories": {
     "doc": "doc",
